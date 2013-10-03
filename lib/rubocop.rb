@@ -42,6 +42,7 @@ require 'rubocop/cop/lint/useless_assignment'
 require 'rubocop/cop/lint/useless_comparison'
 require 'rubocop/cop/lint/useless_setter_call'
 require 'rubocop/cop/lint/void'
+require 'rubocop/cop/lint/debugger'
 
 require 'rubocop/cop/style/autocorrect_alignment'
 require 'rubocop/cop/style/configurable_naming'
